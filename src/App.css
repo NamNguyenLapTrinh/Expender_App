@@ -1,0 +1,12 @@
+@import "~antd/dist/antd.css";
+.site-layout-content {
+  min-height: 280px;
+  padding: 24px;
+  background: #fff;
+}
+.logo {
+  float: left;
+  color: #fff;
+  font-size: 20px;
+  padding-right: 20px;
+}

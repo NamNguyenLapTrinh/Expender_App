@@ -8,6 +8,8 @@ import { CheckOutlined } from "@ant-design/icons";
 const { Option } = Select;
 export default function EditExpense() {
   let navigate = useNavigate();
+  console.log(navigate);
+
 
   let { id } = useParams();
   console.log(id);
